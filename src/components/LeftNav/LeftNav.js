@@ -4,10 +4,12 @@ import {
   DrawerNavExpandable
 } from '@materialios/components'
 
+import packageJson from '../../../package.json'
+
 const LeftNav = () => {
   return (
-    <Drawer>
-      <DrawerNav name='Home' href='/' />
+    <Drawer brand='Fashion Shop' footer={packageJson ? `Version ${packageJson.version}` : ''}>
+      <DrawerNav name='Home' href='/' isDefault />
       <DrawerNavExpandable name='Man'>
         <DrawerNav name='T-Shirt' href='/man/t-shirt' />
         <DrawerNav name='Pants' href='/man/pants' />

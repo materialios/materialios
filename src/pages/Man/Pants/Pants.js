@@ -20,8 +20,7 @@ import {
 } from '@materialios/components'
 
 import {
-  MenuIcon,
-  ArrowBackIcon
+  MenuIcon
 } from '@materialios/icons'
 
 import dummyImage from './man-pants.jpg'
@@ -41,10 +40,8 @@ const Pants = () => {
   return (
     <div className='ManPants'>
       <AppBar>
-        {!isDesktopLandscape
-          ? <AppBarLeftIcon icon={MenuIcon} onClick={() => setDrawer({ show: true })} />
-          : <AppBarLeftIcon icon={ArrowBackIcon} onClick={() => {}} />}
-        <AppBarTitle title='Pants' />
+        {!isDesktopLandscape && <AppBarLeftIcon icon={MenuIcon} onClick={() => setDrawer({ show: true })} />}
+        <AppBarTitle title={'Man\'s Pants'} />
       </AppBar>
       <Container>
         <Row>

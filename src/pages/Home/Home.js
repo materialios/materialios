@@ -17,8 +17,7 @@ import {
 } from '@materialios/components'
 
 import {
-  MenuIcon,
-  ArrowBackIcon
+  MenuIcon
 } from '@materialios/icons'
 
 import dummyPromo from './promo.jpg'
@@ -38,9 +37,7 @@ const Home = () => {
   return (
     <div className='Home'>
       <AppBar>
-        {!isDesktopLandscape
-          ? <AppBarLeftIcon icon={MenuIcon} onClick={() => setDrawer({ show: true })} />
-          : <AppBarLeftIcon icon={ArrowBackIcon} onClick={() => {}} />}
+        {!isDesktopLandscape && <AppBarLeftIcon icon={MenuIcon} onClick={() => setDrawer({ show: true })} />}
         <AppBarTitle title='Home' />
       </AppBar>
       <Container>

@@ -1,7 +1,7 @@
 {
   "name": "materialios",
-  "version": "0.2.2",
-  "private": true,
+  "version": "0.2.8",
+  "private": false,
   "homepage": "https://materialios.github.io",
   "scripts": {
     "start": "react-scripts start",

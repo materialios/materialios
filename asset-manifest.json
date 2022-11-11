@@ -1,30 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.39b33bcc.chunk.css",
-    "main.js": "/static/js/main.f48fe1cc.chunk.js",
-    "main.js.map": "/static/js/main.f48fe1cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.eeb2e8c6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.eeb2e8c6.js.map",
-    "static/css/2.74654c78.chunk.css": "/static/css/2.74654c78.chunk.css",
-    "static/js/2.d17b4a4b.chunk.js": "/static/js/2.d17b4a4b.chunk.js",
-    "static/js/2.d17b4a4b.chunk.js.map": "/static/js/2.d17b4a4b.chunk.js.map",
-    "static/js/3.af6c998c.chunk.js": "/static/js/3.af6c998c.chunk.js",
-    "static/js/3.af6c998c.chunk.js.map": "/static/js/3.af6c998c.chunk.js.map",
+    "main.css": "/static/css/main.51a06f5a.css",
+    "main.js": "/static/js/main.153ac839.js",
+    "static/js/496.7efef32f.chunk.js": "/static/js/496.7efef32f.chunk.js",
+    "static/media/promo.jpg": "/static/media/promo.c7810239f0d6cf8341f8.jpg",
+    "static/media/man-tshirt.jpg": "/static/media/man-tshirt.4f12ef377e516fc4f151.jpg",
+    "static/media/man-pants.jpg": "/static/media/man-pants.4888c0c894eb0c596ec1.jpg",
+    "static/media/woman-pants.jpg": "/static/media/woman-pants.8ea266499b82d2973c13.jpg",
+    "static/media/woman-tshirt.jpg": "/static/media/woman-tshirt.c4a258c8e84596f1fac3.jpg",
     "index.html": "/index.html",
-    "static/css/2.74654c78.chunk.css.map": "/static/css/2.74654c78.chunk.css.map",
-    "static/css/main.39b33bcc.chunk.css.map": "/static/css/main.39b33bcc.chunk.css.map",
-    "static/js/2.d17b4a4b.chunk.js.LICENSE.txt": "/static/js/2.d17b4a4b.chunk.js.LICENSE.txt",
-    "static/media/man-pants.4888c0c8.jpg": "/static/media/man-pants.4888c0c8.jpg",
-    "static/media/man-tshirt.4f12ef37.jpg": "/static/media/man-tshirt.4f12ef37.jpg",
-    "static/media/promo.c7810239.jpg": "/static/media/promo.c7810239.jpg",
-    "static/media/woman-pants.6fec22d5.jpg": "/static/media/woman-pants.6fec22d5.jpg",
-    "static/media/woman-tshirt.c4a258c8.jpg": "/static/media/woman-tshirt.c4a258c8.jpg"
+    "main.51a06f5a.css.map": "/static/css/main.51a06f5a.css.map",
+    "main.153ac839.js.map": "/static/js/main.153ac839.js.map",
+    "496.7efef32f.chunk.js.map": "/static/js/496.7efef32f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.eeb2e8c6.js",
-    "static/css/2.74654c78.chunk.css",
-    "static/js/2.d17b4a4b.chunk.js",
-    "static/css/main.39b33bcc.chunk.css",
-    "static/js/main.f48fe1cc.chunk.js"
+    "static/css/main.51a06f5a.css",
+    "static/js/main.153ac839.js"
   ]
 }

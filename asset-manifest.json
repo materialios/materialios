@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/materialios/static/css/main.51a06f5a.css",
-    "main.js": "/materialios/static/js/main.ca8f65c4.js",
-    "static/js/496.7efef32f.chunk.js": "/materialios/static/js/496.7efef32f.chunk.js",
-    "static/media/promo.jpg": "/materialios/static/media/promo.c7810239f0d6cf8341f8.jpg",
-    "static/media/man-tshirt.jpg": "/materialios/static/media/man-tshirt.4f12ef377e516fc4f151.jpg",
-    "static/media/man-pants.jpg": "/materialios/static/media/man-pants.4888c0c894eb0c596ec1.jpg",
-    "static/media/woman-pants.jpg": "/materialios/static/media/woman-pants.8ea266499b82d2973c13.jpg",
-    "static/media/woman-tshirt.jpg": "/materialios/static/media/woman-tshirt.c4a258c8e84596f1fac3.jpg",
-    "index.html": "/materialios/index.html",
-    "main.51a06f5a.css.map": "/materialios/static/css/main.51a06f5a.css.map",
-    "main.ca8f65c4.js.map": "/materialios/static/js/main.ca8f65c4.js.map",
-    "496.7efef32f.chunk.js.map": "/materialios/static/js/496.7efef32f.chunk.js.map"
+    "main.css": "/static/css/main.51a06f5a.css",
+    "main.js": "/static/js/main.f87d0357.js",
+    "static/js/496.7efef32f.chunk.js": "/static/js/496.7efef32f.chunk.js",
+    "static/media/promo.jpg": "/static/media/promo.c7810239f0d6cf8341f8.jpg",
+    "static/media/man-tshirt.jpg": "/static/media/man-tshirt.4f12ef377e516fc4f151.jpg",
+    "static/media/man-pants.jpg": "/static/media/man-pants.4888c0c894eb0c596ec1.jpg",
+    "static/media/woman-pants.jpg": "/static/media/woman-pants.8ea266499b82d2973c13.jpg",
+    "static/media/woman-tshirt.jpg": "/static/media/woman-tshirt.c4a258c8e84596f1fac3.jpg",
+    "index.html": "/index.html",
+    "main.51a06f5a.css.map": "/static/css/main.51a06f5a.css.map",
+    "main.f87d0357.js.map": "/static/js/main.f87d0357.js.map",
+    "496.7efef32f.chunk.js.map": "/static/js/496.7efef32f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51a06f5a.css",
-    "static/js/main.ca8f65c4.js"
+    "static/js/main.f87d0357.js"
   ]
 }

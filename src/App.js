@@ -20,13 +20,13 @@ const App = () => {
       <LeftNav />
       <MainScreen>
         {/* */}
-        <Route exact path='/' component={Home} />
+        <Route exact path='/' element={<Home />} />
         {/* */}
-        <Route exact path='/man/t-shirt' component={ManTShirt} />
-        <Route exact path='/man/pants' component={ManPants} />
+        <Route exact path='/man/t-shirt' element={<ManTShirt />} />
+        <Route exact path='/man/pants' element={<ManPants />} />
         {/* */}
-        <Route exact path='/woman/t-shirt' component={WomanTShirt} />
-        <Route exact path='/woman/pants' component={WomanPants} />
+        <Route exact path='/woman/t-shirt' element={<WomanTShirt />} />
+        <Route exact path='/woman/pants' element={<WomanPants />} />
         {/* */}
       </MainScreen>
     </div>
